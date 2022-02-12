@@ -1,0 +1,52 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: auto;
+    min-height: calc(100)
+}
+
+nav {
+    background-color: #2b638f;
+}
+
+h1 {
+    font-family: monospace;
+    font-weight: bold;
+    color: #142a42;
+}
+
+table {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+tbody {
+    background-color: white;
+    color: #4b5e79;
+    font-family: sans-serif;
+}
+td > input {
+    font-family: sans-serif;
+    color: #4b5e79;
+}
+
+#logo {
+    font-family: monospace; 
+    font-size: 41px;
+    color: black;
+}
+#ul_nav>li {
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-right: 25px;
+    color: white
+}
+
+#containerO {
+    box-shadow: 2px 5px 50px 12px #000000;
+    opacity: 0.95;
+    border-radius: 1.50rem;
+}
+
+
+

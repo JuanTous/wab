@@ -1,0 +1,14 @@
+com\modelDAO\usuarioDAO.class
+com\modelDAO\tiendaDAO.class
+com\setting\fecha_y_hora.class
+com\model\carrito.class
+com\setting\conexion.class
+com\model\usuario.class
+com\modelDAO\comprasDAO.class
+com\model\ventas.class
+com\model\compras.class
+com\model\producto.class
+com\controlador\controlador.class
+com\controlador\controladorEmp.class
+com\modelDAO\productoDAO.class
+com\model\tienda.class
