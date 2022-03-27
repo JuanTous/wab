@@ -1,4 +1,5 @@
-Tecnologías usadas para el desarrollo de este proyecto:
+______________________________________________________
+Technologies used for the development of this project:
 ______________________________________________________ 
 							
 FRONT-END							
@@ -20,3 +21,9 @@ SERVER
     *Apache Tomcat
 
 ______________________________________________________ 
+                        VERSION 2
+______________________________________________________
+
+For the version 2 will be modified the part of the 
+Backend adding JPA and I am currently studying about to 
+implement the Spring framework.
